@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #This project demonstrates how to use rclone to transfer files to Google drive, using a virtual linux environment from the host os as windows
 
 ## Prerequisites
@@ -40,3 +41,7 @@
    - rclone copy testfile.txt gdrive
 
 
+=======
+# rclone-gdrive-project
+rclone is used to copy files to google drive
+>>>>>>> b8884d0ecb1be06c1f67fc22f09a84c240f3d9f2
